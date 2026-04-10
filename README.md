@@ -4,28 +4,22 @@ Product designer and builder who ships full products from concept to production.
 
 I design, build, and grow products - not just wireframes. My approach: deeply understand the problem, design the solution, then build and ship it.
 
-## GitHub Stats
+## By the Numbers
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karthikn4us&show_icons=true&count_private=true&include_all_commits=true&theme=default&hide_border=true" alt="GitHub Stats" />
-</p>
+| | |
+|---|---|
+| **277+** commits across 2 production apps | **190K+** lines of code |
+| **2** SaaS products designed, built & shipped | **8+** API integrations (Stripe, Firebase, Telnyx, ElevenLabs, Google Ads) |
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikn4us&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikn4us&layout=compact&hide_border=true&count_private=true" alt="Top Languages" />
-</p>
+**Languages & Tools:** TypeScript, React, Node.js, Express, MySQL, Drizzle ORM, Vite, Stripe Connect, Firebase Auth, Telnyx IVR, ElevenLabs Voice AI, Tailwind CSS, Figma
 
 ## What I've Built
 
 ### Pawsh - Pet Grooming Marketplace
-A two-sided marketplace connecting pet owners with mobile groomers. Designed the complete product - booking flows, groomer dashboards, payment systems, and growth features.
+A two-sided marketplace connecting pet owners with mobile groomers. Designed the complete product - booking flows, groomer dashboards, payment systems, and growth features. Live at [pawsh.app](https://pawsh.app)
 
-**Stack:** React, Node.js, TypeScript, MySQL, Drizzle ORM, Stripe Connect, Firebase Auth, Vite
+**72 commits - 187K lines - React, Node.js, TypeScript, MySQL, Stripe Connect, Firebase Auth**
 
-**Key features I designed and built:**
 - Groomer onboarding and verification flow
 - Real-time booking and scheduling system
 - Stripe Connect payment processing with split payouts
@@ -35,9 +29,8 @@ A two-sided marketplace connecting pet owners with mobile groomers. Designed the
 ### SpeedyFixers Dispatch - AI-Powered Service Dispatch
 Dispatch system for a mobile mechanic business in Austin, TX. Designed and built an AI voice system for inbound calls, real-time dashboard, and automated lead routing.
 
-**Stack:** Node.js, Express, ElevenLabs Voice AI, Telnyx IVR, Google Ads API
+**205 commits - 10K lines - Node.js, Express, ElevenLabs Voice AI, Telnyx IVR, Google Ads API**
 
-**Key features I designed and built:**
 - AI voice agent that handles inbound service calls
 - IVR spam filtering system reducing junk calls by 90%+
 - Real-time dispatch dashboard with pipeline tracking
