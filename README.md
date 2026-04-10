@@ -85,4 +85,4 @@ Marketing video pipeline using code to generate product videos for Pawsh.
 
 ## Get In Touch
 
-- [LinkedIn](https://linkedin.com/in/karthikn4us)
+- [LinkedIn](https://www.linkedin.com/in/karthiknaralasetty/)
